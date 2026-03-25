@@ -1,0 +1,14 @@
+# Ignore data files
+*.csv
+
+# Ignore model and array files
+*.joblib
+*.pkl
+*.npy
+*.keras
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore IDE settings
+.idea/
